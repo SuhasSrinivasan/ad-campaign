@@ -1,3 +1,3 @@
 # Ad Campaign Analysis
 
-Time-series analysis (created May 2018).
+Time-series analysis of online ads (created May 2018).
